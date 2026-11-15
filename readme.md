@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 align="center">SCDiff: Surface-Constrained Diffusion for High-Density Point Cloud Denoising</h1>
+  <h1 align="center">SCDiff: Surface-Consistent Diffusion for High-Fidelity Point Cloud Denoising</h1>
   <p align="center">
-    Shiyu Wang, Zhichao You, Liang Guo, Hongli Gao, and Tianrui Li
+    Canyu Cai and Bo Jiang
   </p>
 </p>
 
